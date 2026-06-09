@@ -1,0 +1,6 @@
+{
+  "name": "Ankur Logistics",
+  "description": "Premium corporate logistics and freight transportation website with dynamic 3D elements, real-time shipment tracking simulation, and a secure server-side AI chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
